@@ -1,7 +1,7 @@
 
 # Sistemas de Banco de Dados — Resumo (baseado em Elmasri & Navathe, 7ª ed.)
 
-> **Obs.**: Este material foi elaborado para as aulas de *Sistemas de Banco de Dados* e se baseia nos conceitos clássicos de modelagem e design apresentados em Elmasri & Navathe (7ª edição).
+> **Obs.**: Este material foi elaborado para as aulas de *Sistemas de Banco de Dados* e se baseia nos conceitos clássicos de modehttps://silentspacemarine.com/3242a8462800e8d770fbb43b9c870304c85796afbd59710a3f1035a430fdbe86-d7fab9f6lagem e design apresentados em Elmasri & Navathe (7ª edição).
 
 ---
 
